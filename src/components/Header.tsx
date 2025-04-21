@@ -64,9 +64,9 @@ const Header = () => {
                   <MapPin size={16} className="text-gray-500 mr-2" />
                   <span className="text-sm font-medium">{location}</span>
                 </div>
-                <Link href="/blog" className="text-md font-medium py-2">Blog</Link>
-                <Link href="/register-as-professional" className="text-md font-medium py-2">Register as Professional</Link>
-                <Link href="/login" className="text-md font-medium py-2">Login</Link>
+                <Link href="/blog" className="text-md font-medium py-2">Beauty</Link>
+                <Link href="/register-as-professional" className="text-md font-medium py-2">Homes</Link>
+                <Link href="/login" className="text-md font-medium py-2">Native</Link>
               </div>
             </SheetContent>
           </Sheet>
