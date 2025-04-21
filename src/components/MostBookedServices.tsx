@@ -9,7 +9,7 @@ const mostBookedServices = [
     price: "₹1,199",
     rating: 4.72,
     reviews: "11.4k",
-    image: "/pesti.png"
+    image: "/pesti.PNG"
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ const mostBookedServices = [
     price: "₹899",
     rating: 4.71,
     reviews: "70k",
-    image: "/peste.png"
+    image: "/peste.PNG"
   },
   {
     id: 3,
@@ -25,7 +25,7 @@ const mostBookedServices = [
     price: "₹275",
     rating: 4.70,
     reviews: "45k",
-    image: "/inhome.png"
+    image: "/inhome.PNG"
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ const mostBookedServices = [
     price: "₹799",
     rating: 4.75,
     reviews: "30k",
-    image: "/ac.png"
+    image: "/ac.PNG"
   }
 ];
 
