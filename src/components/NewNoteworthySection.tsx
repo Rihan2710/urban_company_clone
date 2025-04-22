@@ -33,7 +33,7 @@ const newServices = [
   {
     id: 4,
     name: "Native Smart Locks",
-    image: "/smartlock.PNG",
+    image: "/smartlocks.jpg",
     link: "/pune/native-smart-locks"
   },
   {
